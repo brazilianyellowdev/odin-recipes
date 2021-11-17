@@ -1,2 +1,2 @@
 # odin-recipes
-My website - HTML foundations
+Hi I am learning HTML foundations, and this is the first part of my website! -- Project: RECIPES
