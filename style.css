@@ -1,0 +1,22 @@
+body {
+    background-color:lightgoldenrodyellow;
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: auto;
+}
+
+.ingredientes {
+    color: red;
+    font-size: 22px;
+}
